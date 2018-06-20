@@ -1,4 +1,4 @@
-# create-my-react-app
+#jfoto_customer_static
 ----
 * 主体部分采用create-react-app
 * 使用react-app-rewired进行配置覆盖（config-overrides）

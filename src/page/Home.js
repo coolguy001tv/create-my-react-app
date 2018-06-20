@@ -4,7 +4,7 @@ import {
     Route,
     NavLink,
 } from 'react-router-dom';
-import Demo from "./Demo";
+import Demo from "./Demo/index";
 export default class Home extends React.Component{
     componentDidCatch(error,info){
         //后面应该考虑有一个错误报告
